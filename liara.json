@@ -1,0 +1,14 @@
+{
+  "name": "kalin-ai-assistant",
+  "type": "static",
+  "build": {
+    "command": "npm run build",
+    "output": "dist"
+  },
+  "env": {
+    "NODE_VERSION": "18"
+  },
+  "domains": [
+    "kalin-ai-assistant.liara.run"
+  ]
+} 
